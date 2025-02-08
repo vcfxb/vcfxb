@@ -6,8 +6,8 @@
 
 ### My Career
 After getting involved in open source in college via [RCOS](https://new.rcos.io/), and a brief internship, I started my career at the [MITRE Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation), an American not-for-profit organization. 
-While I was there, I worked on a wide variety of things including some very cool tools to assess software supply chain security risks such as [hipcheck](https://github.com/mitre/hipcheck).
-After my time at MITRE, I became a [Cloudflarian](https://en.wikipedia.org/wiki/Cloudflare), joining a small team of folks dedicated to protecting the internet from [Denial of Service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack).
+While I was there, I worked on some very cool tools to assess software supply chain security risks. One of them was even open-sourced: [hipcheck](https://github.com/mitre/hipcheck).
+After my time at MITRE I started working at [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare), where I joined a small team of folks dedicated to protecting the internet from [Denial of Service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack).
 So far, none of my work there has been open-sourced, but I'll update here if that changes!
 
 ### My Open Source Work
@@ -17,13 +17,13 @@ Over the past few years, I've [added docs and examples to the rust standard libr
 [added a parser combinator to nom](https://github.com/rust-bakery/nom/commits?author=vcfxb&since=2015-02-01&until=2025-02-06),
 and made a few other open source contributions in various repositories.
 
-My main focus, on-and-off [since 2017, when it was a different repo and a different project](https://github.com/vcfxb/BlackRose/commit/bc59389093ba7bf00968fa0d917ae0bb49aa024d) (please don't read that code too deeply, I was a teenager when I wrote it lol 🫣)
+My main focus, on-and-off [since 2017, when it was a different repo and a different project](https://github.com/vcfxb/BlackRose/commit/bc59389093ba7bf00968fa0d917ae0bb49aa024d) (please don't read that code too deeply, I was a teenager when I wrote it lol)
 has been [wright-lang](https://github.com/vcfxb/wright-lang), a programming language and compiler that I'm designing and building from scratch. I've stopped and restarted the project several times over the years, mostly 
 relating to when I'm burnt out with it or when I have other things in my life keeping me busy, so it has evolved a lot since it's creation. Hopefully one day when it's more complete, I can give it it's own section here.
 
 ### Hobbies and Interests
 In my free time have a variety of hobbies including hiking, making music, and playing [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends). I'm also an avid car enthusiast, fashonista, foodie, and lover of frogs & other 
-anphibians.
+amphibians.
 
 ### Reaching Me
 If you're commenting on my projects or work here on GitHub I'll likely see it! I look at GitHub relatively regularly.
