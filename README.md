@@ -12,8 +12,8 @@ So far, none of my work there has been open-sourced, but I'll update here if tha
 
 ### My Open Source Work
 Over the past few years, I've [added docs and examples to the rust standard library](https://github.com/rust-lang/rust/commits?author=vcfxb&since=2020-02-01&until=2025-02-06),
-[implemented some of the tracing and error logic in rust's libgit2 wrapper](https://github.com/rust-lang/git2-rs/commits?author=vcfxb&since=2015-02-01&until=2025-02-06),
-[added better error messages regarding macOS SecureTransport errors to libgit2 itself](https://github.com/libgit2/libgit2/commits?author=vcfxb&since=2015-02-01&until=2025-02-06),
+[implemented some of the tracing and error logic in rust's libgit2 wrapper](https://github.com/rust-lang/git2-rs/commits?author=vcfxb&since=2015-02-01&until=2025-03-25),
+[added better error messages regarding macOS SecureTransport errors to libgit2 itself](https://github.com/libgit2/libgit2/commits?author=vcfxb&since=2015-02-01&until=2025-03-25),
 [added a parser combinator to nom](https://github.com/rust-bakery/nom/commits?author=vcfxb&since=2015-02-01&until=2025-02-06),
 and made a few other open source contributions in various repositories.
 
