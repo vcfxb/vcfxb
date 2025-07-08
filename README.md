@@ -22,12 +22,12 @@ has been [wright-lang](https://github.com/vcfxb/wright-lang), a programming lang
 relating to when I'm burnt out with it or when I have other things in my life keeping me busy, so it has evolved a lot since it's creation. Hopefully one day when it's more complete, I can give it it's own section here.
 
 ### Hobbies and Interests
-In my free time have a variety of hobbies including hiking, making music, and playing [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends). I'm also an avid car enthusiast, fashonista, foodie, and lover of frogs & other 
+In my free time have a variety of hobbies including hiking, making music, and playing [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends) and [Magic The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering). I'm also an avid car enthusiast, fashonista, foodie, and lover of frogs & other 
 amphibians.
 
 ### Reaching Me
 If you're commenting on my projects or work here on GitHub I'll likely see it! I look at GitHub relatively regularly.
-Otherwise feel free to message me on socical media ([Bluesky](https://bsky.app/profile/venusblon.de), [Instagram](https://www.instagram.com/venus_xeon/), [LinkedIn](https://www.linkedin.com/in/venus-xeon-blonde-72b198173/)) 
+Otherwise feel free to message me on social media ([Bluesky](https://bsky.app/profile/venusblon.de), [Instagram](https://www.instagram.com/venus_xeon/), [LinkedIn](https://www.linkedin.com/in/venus-xeon-blonde-72b198173/)) 
 or email me at "venus [at] venusblon [dot] de".
 
 ---
